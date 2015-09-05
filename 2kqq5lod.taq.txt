@@ -1,0 +1,8 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch db
+# Changes to be committed:
+#	new file:   assets/magento_sample_data_for_1.9.1.0.sql
+#
+
